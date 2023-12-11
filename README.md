@@ -5,4 +5,4 @@ The goal of our project is to help find a suitable neighborhood based on needs. 
 
 # Project Group 43
 
-# UNIs [ys3188, by2373s]
+# UNIs [ys3188, by2373]
